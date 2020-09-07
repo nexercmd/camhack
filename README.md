@@ -53,7 +53,7 @@ to see captured images >>>
 
 $ ls
 
-$ mv (image name with .png) /sdcard
+$ xdg-open (image name with .png)
 
 Now go and chek your gallery for victim image...
 
