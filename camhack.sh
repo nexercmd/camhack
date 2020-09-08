@@ -15,7 +15,7 @@ banner() {
 
 echo '
 
-                             __                         ___   _                     _      ___       
+                                                                           _      ___       
   / __\ /_\    /\/\     /\  /\/_\    / __\ /\ /\
  / /   //_\\  /    \   / /_/ //_\\  / /   / //_/
 / /___/  _  \/ /\/\ \ / __  /  _  \/ /___/ __ \ 
@@ -25,7 +25,7 @@ echo '
                         |    _     ||   -_  
                         |  ((_))   ||     -_     CODED BY : 
                         |__________|/
-                  ___           ___           ___           ___           ___           ___     
+      ___           ___           ___           ___           ___           ___     
      /\  \         /\__\         /\  \         /\__\         /\  \         |\__\    
     /::\  \       /:/  /        /::\  \       /:/  /        /::\  \        |:|  |   
    /:/\:\  \     /:/__/        /:/\ \  \     /:/__/        /:/\:\  \       |:|  |   
@@ -40,13 +40,14 @@ echo '
                                                                                
 echo " "
 printf "      \e[1;77m v1.0 coded by github.com/PlanetHackers-YT\e[0m \n"
-printf "          \e[1;77m v1.1 This reborn script by { Planet Hackers }\e[0m \n"
+printf "          \e[1;77m v1.1 This script is by { Planet Hackers }\e[0m \n"
 
 printf "\n"
 
 echo "      N0TE:> PLEASE TURN ON YOUR HOTSPOT 
                    OR ELSE YOU DONT GET LINK....!
-                MADE WITH LOVE BY AKSHAY "
+                    MADE WITH LOVE BY AKSHAY 
+                    Instagram @ _thearjun_   "
 
 }
 
