@@ -1,21 +1,29 @@
 
-<h1 align="center"> camhack v1.1</h1>
+<h1 align="center"> Camhack v1.1</h1>
 <p align="center">
-      A camera hacking by link tool
+      A Camera hacking by link tool
 </p>
 
-## ?? ***About camhack***:
+##  ***About Camhack***:
 
 Camhack is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
+CODED BY : AKSHAY 
 
+Instagram : https://www.instagram.com/_thearjun_
 
+YouTube : https://m.youtube.com/channel/UCeLPNpBz3FKfh8FiHDhNcRA
 
-### ?? ***camhack is available for***:
+IF YOU THINK I COPIED YOUR CODE!! LOOK AT YOUR FACE IN MIRROR!! CREDIT STEALER!
+    
+
+###  ***Camhack is available for***:
 
 * Termux
 
-### ?? ***Installation and usage guide***:
+###  ***NOTE:*** COPY THE CODES WITHOUT $ SYMBOL !! IT MIGHT TAKE YOU SOME TIME FOR INSTALLING THE BELOW CODES! BE WITH PATIENCE!! AND COPY THE NEXT CODE AFTER OTHER CODE ONLY WHEN YOU GET $ SYMBOL IN TERMUX !! DON'T JUST BLINDY COPY &PASTE !!
+
+###  ***Installation and usage guide***:
 ```
 $ apt-get update -y
 ```
@@ -72,6 +80,6 @@ https://www.instagram.com/_thearjun_
 
 
 
-### ?? Warning
+###  Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
