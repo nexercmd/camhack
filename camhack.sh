@@ -3,6 +3,7 @@
 # This script is by Planet Hackers
 # SUBSCRIBE US ON YOUTUBE FOR VIDEO TUTORIALS 
 
+
 # If you use any part from this code, giving me the credits. Read the Lincense!
 clear
 termux-setup-storage
@@ -45,8 +46,10 @@ printf "\n"
 
 echo "      N0TE:> PLEASE TURN ON YOUR HOTSPOT 
                    OR ELSE YOU DONT GET LINK....!
-                    MADE WITH LOVE BY AKSHAY 
-                    Instagram @ _thearjun_   "
+                    --MADE WITH LOVE BY AKSHAY--
+                    Instagram @ _thearjun_  
+                   YOUTUBE : https://www.youtube.com/c/PLANETHACKERS 
+           TIP : ZOOM OUT IN TERMUX TO SEE THE NAME CLEARLY "
 
 }
 
